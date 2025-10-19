@@ -1,11 +1,30 @@
-## Introduction
-I am Bala Dengale Lead System Engineer working with **Visa** in Singapore, where I lead initiatives in Cloud Infrastructure and DevOps Engineering. With close to 20 years of industry experience, I specialize in architecting and operating large-scale, secure container and cloud environments for enterprise clients.
+# Hi there👋 
 
-**Key Areas of Expertise:**
-- Enterprise-scale Kubernetes, Docker, OpenShift, and GitOps
-- Infrastructure as Code (IaC) automation using Ansible & Chef
-- Cloud-native solution design and multi-cloud integration
-- Driving automation, scalability, and operational best practices
-- Delivering technical solutions across APAC, Europe, and the Middle East
+I am Bala Dengale, a Lead System Engineer @Visa.
 
-I am passionate about continuous learning and integrating modern DevOps practices to drive digital transformation. My focus remains on building resilient, automated infrastructures that support mission-critical workloads, fostering innovation, and enabling reliable cloud operations for leading organizations[10].
+## 🚀 About Me
+- 💼 **Profession:** Lead System Engineer at Visa Singapore
+- 🛠️ **Expertise:** Kubernetes, Docker, OpenShift, GitOps, Ansible, Chef, Cloud Architecture, Automation
+- 🌎 **Experience:** Nearly 20 years delivering enterprise solutions across APAC, Europe, and Middle East
+- 🎓 **Education:** BE in Computer Engineering (Pune University), Specialist AI Diploma (Temasek, Singapore)
+- 🧠 **Interests:** Open source, infrastructure as code, AI/ML integrations, product development
+
+## 📌 Featured Projects & Achievements
+- Architected Visa’s secure Kubernetes platform spanning 8 datacenters and 100+ clusters
+- Led automation and orchestration for global cloud platforms at Visa, CloudFX, UBS, and BMC
+- Designed and delivered high-availability, automated solutions for cloud service brokerage
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/baladengale/)
+- [Blog](https://baladengale.me/)
+- Email: dengalebr@gmail.com
+> _Feel free to connect or reach out for collaboration!_
+
+## 💡 Fun Facts
+- I love building global-scale automation for enterprise environments
+- Always exploring new technologies and best practices
+
+---
+_“Automate, innovate, and scale!”_  
+
+
