@@ -1,6 +1,7 @@
 # Hi there👋 
 
-I am Bala Dengale, a Lead System Engineer @Visa.
+I am Bala Dengale, a Lead System Engineer @Visa. 
+Previously I worked in pre-sales for CloudFX, BMC implementing Datacenter automtaoin, infrastructure management platforms. 
 
 ## 🚀 About Me
 - 💼 **Profession:** Lead System Engineer at Visa Singapore
